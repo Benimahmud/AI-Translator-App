@@ -1,7 +1,7 @@
 # AI-Translator-Glide-App
 A lightweight, no-login AI-powered translation app built with **Glide** and **Google Sheets** — supports multiple languages, real-time translations, and a clean user interface.
 
-![AI Translator Demo](link-to-your-demo-video-or-gif) <!-- Replace with your actual video or GIF URL -->
+![AI Translator Demo]( https://drive.google.com/file/d/1oQ-96xdyt-3-4sSqFThH2p8VTPW9usuR/view?usp=sharing  ) 
 
 ---
 
@@ -18,7 +18,7 @@ A lightweight, no-login AI-powered translation app built with **Glide** and **Go
 ## 🚀 How It Works
 
 1. **User Interface**:  
-   Built in Glide with dropdown menus to select input and output languages, a text field for input, and a translation output field.
+   Built in Glide with chips menus to select input and output languages, a text field for input, and a translation output field.
 
 2. **Translation Logic**:  
    Uses Glide’s **AI column** powered by a dynamic prompt template:
@@ -47,7 +47,7 @@ Translated text appears immediately after entry, with no need to refresh or relo
 
 ## 📺 Demo
 
-👉 [Watch the Demo Video](link-to-your-video) <!-- Replace with your Loom or YouTube link -->
+👉 [Watch the Demo Video]([link-to-your-video](https://drive.google.com/file/d/1oQ-96xdyt-3-4sSqFThH2p8VTPW9usuR/view?usp=sharing)) 
 
 ---
 
