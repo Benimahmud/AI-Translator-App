@@ -55,4 +55,4 @@ Translated text appears immediately after entry, with no need to refresh or relo
  ai-translator
 ├─ 📄 README.md
 ├─ 📸 assets/ (screenshots or gifs)
-└─ 🔗 link.txt (optional live app URL)
+└─ 🔗 link.txt ([optional live app URL](https://ai-translator-fhzs.glide.page))
